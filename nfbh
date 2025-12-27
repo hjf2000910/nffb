@@ -52,7 +52,12 @@ https://qiniu.production.link3.cc/user_create_images/link3_1702407959671/image_s
 
 
 
-
+{
+	"id":"https://pic1.imgdb.cn/item/69486dd46f781d6b3d1880f2.png",	//链接
+         "name_all":"今日嚓辺短剧鉴赏✨【为爱疯狂】.nffb",	//软件名称
+         "size":"精彩剧情全程高速",	//软件大小
+         "time":"2025-12-27",	//发布时间
+	}
 {
 	"id":"https://pan.quark.cn/s/90b6d0c66e65",	//链接
          "name_all":"〖教程共享〗新人闭眼冲！闲鱼 + 拼夕夕套利，80% 纯利当天可开单，复制粘贴日入 3000+.nffb",	//软件名称
